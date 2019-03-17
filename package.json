@@ -1,5 +1,5 @@
 {
-  "name": "ncu-mock-prerelease",
+  "name": "ncu-mock-pre",
   "description": "A package that never is published beyond 1.0.0-alpha.0",
   "version": "1.0.0-alpha.0",
   "author": {
