@@ -1,0 +1,11 @@
+{
+  "name": "ncu-mock-prerelease",
+  "description": "A package that never is published beyond 1.0.0-alpha.0",
+  "version": "0.0.1",
+  "author": {
+    "name": "Raine Revere",
+    "email": "raineorshine@gmail.com",
+    "url": "https://github.com/raineorshine"
+  },
+  "license": "ISC"
+}
